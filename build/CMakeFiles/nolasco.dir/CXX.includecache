@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cindy/Documentos/proyectos_opengl/t_materiales/esfera.cpp
+GL/gl.h
+-
+GL/glut.h
+-
+

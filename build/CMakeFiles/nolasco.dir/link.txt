@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/nolasco.dir/esfera.cpp.o  -o nolasco -rdynamic -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi 

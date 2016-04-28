@@ -1,0 +1,1 @@
+/home/cindy/Documentos/proyectos_opengl/t_materiales/build/CMakeFiles/nolasco.dir
